@@ -1,6 +1,24 @@
 # 💫 About Me:
-Entrepreneur and Founder of Pool4Ever.com,<br>Microsoft Certified Systems Engineer (MCSE),<br>Full Stack Developer<br>L.L.B Bachelor of Laws.
-Entrepreneur and Founder of Pool4Ever.com,<br>Microsoft Certified Systems Engineer (MCSE),<br>Full Stack Developer,<br>L.L.B Bachelor of Laws.
+🔔 Hi there! Austin Parker here, a seasoned Full Stack Developer specializing in JavaScript technologies. With over five years of experience in tech, I have a strong fondness for coding scalable, dynamic, and performance-oriented web applications. 🚀
+
+⭐ Core Proficiencies:
+
+🟦 Crafting intricate UI using ReactJS and NextJS for seamless user interaction.
+🟨 Harnessing the potential of TypeScript for structured, type-safe coding.
+⚙️ Back-end development with Node.js, flavored with RESTful APIs and seamless data exchange. ✨ Coding aesthetically appealing interfaces with Tailwind CSS.
+📚 Enabling efficient data storage with MongoDB and PostgreSQL.
+
+🧩 My Toolbox Also Includes:
+
+☁️ Deploying applications on Vercel, AWS for reliable cloud solutions.
+🌀 Experience in React Native for cross-platform mobile app development.
+📈 Incorporating Web3 functionalities and AI-driven analytics for secure and automated solutions.
+🎯 Proficient in using Figma for designing responsive layouts.
+
+I'm proud of my ability to deliver meaningful solutions, be it revamping a legacy system, optimizing load times, or leading the development of SaaS platforms. I always strive for clean, maintainable code in harmony with the client’s vision.
+
+If you are looking for a professional who promises quality, coupled with speed, I'm your go-to person!
+✅ Let's connect to build something incredible together! 🌐💡
 
 
 ## 🌐 Socials:
