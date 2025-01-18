@@ -33,7 +33,7 @@ If you are looking for a professional who promises quality, coupled with speed, 
 <div>
     <a href="https://github.com/goldstar0417">
     <p align="left">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goldstar0417&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldstar0417&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </p>    
 <p align="right">
     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goldstar0417&theme=github_dark" alt="goldstar" align="left"/>
