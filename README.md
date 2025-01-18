@@ -38,7 +38,7 @@ If you are looking for a professional who promises quality, coupled with speed, 
 
 <div>
     <a href="https://github.com/goldstar0417">
-    <p align="left">
+    <p align="center">
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=goldstar0417&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldstar0417&layout=compact&langs_count=7&theme=dracula"/>
     </p>
@@ -56,7 +56,7 @@ If you are looking for a professional who promises quality, coupled with speed, 
  
 
  
- <!-- <p align="left">
+ <!-- <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=goldstar0417" />
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p> -->
