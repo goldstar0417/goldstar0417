@@ -36,10 +36,7 @@ If you are looking for a professional who promises quality, coupled with speed, 
     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaodematejr&theme=github_dark" alt="joaodematejr" align="left"/>
     </p>
   </div>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=goldstar0417&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
+![Snake animation](https://github.com/joaodematejr/joaodematejr/blob/output/github-contribution-grid-snake.svg) 
 [![](https://visitcount.itsvg.in/api?id=goldstar0417&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
