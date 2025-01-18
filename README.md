@@ -31,12 +31,11 @@ If you are looking for a professional who promises quality, coupled with speed, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=goldstar0417&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goldstar0417&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <div>
-    <a href="https://github.com/joaodematejr">
+    <a href="https://github.com/goldstar0417">
     <p align="left">
-    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaodematejr&theme=github_dark" alt="joaodematejr" align="left"/>
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goldstar0417&theme=github_dark" alt="goldstar" align="left"/>
     </p>
   </div>
 ![Snake animation](https://github.com/goldstar0417/goldstar0417/blob/output/github-contribution-grid-snake.svg) 
-[![](https://visitcount.itsvg.in/api?id=goldstar0417&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
