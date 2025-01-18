@@ -30,7 +30,12 @@ If you are looking for a professional who promises quality, coupled with speed, 
 ![](https://github-readme-stats.vercel.app/api?username=goldstar0417&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=goldstar0417&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=goldstar0417&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div>
+    <a href="https://github.com/joaodematejr">
+    <p align="left">
+    <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaodematejr&theme=github_dark" alt="joaodematejr" align="left"/>
+    </p>
+  </div>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=goldstar0417&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
