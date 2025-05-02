@@ -27,12 +27,6 @@
 
 ---
 
-## 📈 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=goldstar0417&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?goldstar0417=yourusername&layout=compact)  
-
----
-
 ## 📫 **Let’s Build the Future!**  
 
 > _"Code is money in the blockchain world. Let’s make it count!"_ 💻💰  
