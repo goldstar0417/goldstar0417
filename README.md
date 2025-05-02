@@ -79,6 +79,10 @@
   <a href="/">  
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
   </a>
+  <a href="/">  
+    <img alt="Github" src="https://img.shields.io/badge/Rust-d40000?style=flat&logo=rust&logoColor=white" />
+  </a>
+  
 </h1>
 
 # 📊 GitHub Stats:
